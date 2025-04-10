@@ -1,1 +1,2 @@
-primer conflicto
+primer conflicto 
+cambios desde main
